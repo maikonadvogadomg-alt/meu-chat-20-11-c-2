@@ -1,0 +1,51 @@
+{
+  "name": "meu-chat-20-11-c-teste-11202250",
+  "version": "1.0.0",
+  "description": "Meu-Chat-20-11-C (teste 11202250)",
+  "author": "Maikon",
+  "private": true,
+  "main": "electron/main.cjs",
+  "portaDoPrograma": 7918,
+  "devDependencies": {
+    "electron": "33.2.1",
+    "electron-builder": "25.1.8"
+  },
+  "build": {
+    "appId": "com.maikonadvogadomgalt.meuchat2011c2.nteste11202250.pc",
+    "productName": "Meu-Chat-20-11-C (teste 11202250)",
+    "executableName": "meu-chat-20-11-c-teste-11202250",
+    "directories": {
+      "output": "release"
+    },
+    "asar": false,
+    "files": [
+      "**/*",
+      "!android/**",
+      "!.github/**",
+      "!release/**",
+      "!exe/**",
+      "!node_modules/.cache/**",
+      "!*.zip",
+      "!.sk/**",
+      "!apk.config.json"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "icons/icon-512.png"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Meu-Chat-20-11-C (teste 11202250)",
+      "artifactName": "meu-chat-20-11-c-teste-11202250-Instalar.exe"
+    },
+    "portable": {
+      "artifactName": "meu-chat-20-11-c-teste-11202250-sem-instalar.exe"
+    }
+  }
+}

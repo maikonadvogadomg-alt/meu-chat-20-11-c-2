@@ -1,0 +1,138 @@
+{
+  "titulo": "Meu-Chat-20-11-C (2)",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "ferramentas/analisador-v2.html",
+      "nome": "Analisador Local de Projetos — V2",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/analisador.html",
+      "nome": "Analisador de Projetos",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/caca-sql.html",
+      "nome": "🔍 Caça Esquema SQL",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/cofre-config.html",
+      "nome": "⚖️ Cofre de Configurações",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/colecionador-codigo.html",
+      "nome": "Colecionador de Código",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/comandos-termux.html",
+      "nome": "📦 Banco de Comandos Termux",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/conversor-imagem.html",
+      "nome": "Conversor de Imagem Econômico",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/detector-api.html",
+      "nome": "Detector e Corretor de API",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/divisor-html.html",
+      "nome": "Divisor de HTML",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/juntador.html",
+      "nome": "Juntador de Projetos HTML",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/leitor-universal.html",
+      "nome": "📂 Leitor Universal de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/monica-guia.html",
+      "nome": "API Monica — Guia Visual",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/monica-passo.html",
+      "nome": "Guia Monica API - Passo a Passo",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/montador-modulos.html",
+      "nome": "🧩 Montador de Módulos — PWA Jurídico",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "ferramentas/procurar-substituir.html",
+      "nome": "Procurar e Substituir",
+      "desc": "",
+      "on": false,
+      "icone": "",
+      "emoji": ""
+    },
+    {
+      "path": "index.html",
+      "nome": "Meu Chat",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg",
+      "emoji": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "claro",
+  "links": []
+}
